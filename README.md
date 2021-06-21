@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks and Code to projects in the course "I
 ---
 
 ## Contents:
-- [Jupyter Notebooks](Intro-to-Self-Driving-Cars/)
+- [Jupyter Notebooks](Jupyter%Notebooks/)
   - **Summary** - Python Jupyter notebooks for step-by-step learning and code visualization.
   - **Keywords** - Python, Matplotlib, Mathematics
 - Projects (Coming Soon!!)
