@@ -5,4 +5,4 @@ This repository contains Jupyter notebooks and Code to projects in the course "I
 
 ## Contents:
 - Jupyter Notebooks
-- 
+- Projects (Coming Soon!!)
